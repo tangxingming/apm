@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: Administrator
+Build-Jdk: 1.8.0_172
+Agent-Class: com.tuling.javaagent.MyAgent
+Boot-Class-Path: javassist-3.18.1-GA.jar
+Can-Redefine-Classes: true
+Premain-Class: com.tuling.javaagent.HelloAgent
+Project-name: tuling-apm-demo
+Project-version: 1.0-SNAPSHOT
+
